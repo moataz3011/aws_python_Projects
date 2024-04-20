@@ -33,3 +33,19 @@ Clear Visual Representation: The game board is represented using ASCII art for e
 Winning Conditions: Checks for winning conditions in all three dimensions.
 Tie Condition: Detects tie conditions when all positions on the board are filled without a winner.
 Play Again Option: Players can choose to play again or exit after each game.
+
+
+# Pokemon App
+The Pokemon App is a Python application that allows users to draw a random Pokemon from the PokeAPI and view its details. Users can choose to draw a Pokemon, and the application will fetch a random Pokemon's details from the PokeAPI, including its name, ID, types, and abilities. The fetched Pokemon data is stored in a JSON file for future reference.
+
+# Features
+Draw a random Pokemon
+Fetch Pokemon details from PokeAPI
+Store Pokemon data in a JSON file
+User-friendly interface
+
+# Usage
+Install Python and required dependencies.
+Clone the repository to your local machine.
+Run the Python script poki.py.
+Follow the prompts to draw a random Pokemon and view its details.
